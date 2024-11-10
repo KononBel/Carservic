@@ -1,0 +1,7 @@
+D:\pa6oTbI\Autoservice\Autoservice\bin\Debug\Autoservice.exe.config
+D:\pa6oTbI\Autoservice\Autoservice\bin\Debug\Autoservice.exe
+D:\pa6oTbI\Autoservice\Autoservice\bin\Debug\Autoservice.pdb
+D:\pa6oTbI\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.AssemblyReference.cache
+D:\pa6oTbI\Autoservice\Autoservice\obj\Debug\Autoservice.csproj.CoreCompileInputs.cache
+D:\pa6oTbI\Autoservice\Autoservice\obj\Debug\Autoservice.exe
+D:\pa6oTbI\Autoservice\Autoservice\obj\Debug\Autoservice.pdb
